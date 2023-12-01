@@ -39,4 +39,9 @@ public class CandidateServices {
 
         return candidatePage;
     }
+
+    public List<Candidate> findAll1() {
+        return candidateRepository.findAll();
+    }
+
 }

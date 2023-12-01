@@ -6,7 +6,6 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import vn.com.iuh.fit.BackEnd.enums.SkillType;
 
-
 import java.util.List;
 
 //Read skill list at: https://www.yourdictionary.com/articles/examples-skills-list
