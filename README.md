@@ -9,8 +9,9 @@
   ![img_1.png](img%2Fimg_1.png)
 - Danh sách Ứng Viên(Candidates) khi chưa phân trang
   ![img.png](img%2Fimg.png)
--  Danh sách Ứng Viên(Candidates) khi phân trang
-  ![img_2.png](img%2Fimg_2.png)
+- Danh sách Ứng Viên(Candidates) khi phân trang
+  ![img_9.png](img%2Fimg_9.png)
+  ![img_10.png](img%2Fimg_10.png)
 - Hoàn thành các chức năng CRUD
   ![img_3.png](img%2Fimg_3.png)
   ![img_4.png](img%2Fimg_4.png)
